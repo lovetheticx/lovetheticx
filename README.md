@@ -18,22 +18,14 @@
 [![](https://img.shields.io/badge/TikTok-ff66ab)](https://tiktok.com/lovetheticx)
 [![](https://img.shields.io/badge/Email-69899c)](https://shohjahonganiyev5@gmail.com)
 
-
-<div align="center">
-
-![](https://camo.githubusercontent.com/af392fa8ba001261ebcc75992146f81ef5612ae3555cde1f35ba7f051215d67a/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a616c69617279616e746563683f7468656d653d72756c653334)
-
-<br>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZiNHZ3b2ozaXI2OW9xdjg4eGN3dGtmb2lrYXkxazg2anluejZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/orUBsDjlD2rzsz6pPK/giphy.webp" width="23%" style="border-radius: 12px;" />
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRxY2VuMnI1M2Z1b2cwcjNucG04OXZxOXF4cmtkdm0zamF1dmd6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7Gq9bHJl3bGn3oRaX/giphy.webp" width="23%" style="border-radius: 12px;" />
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx1MzZkMHN2eHFscDlvOWhncWw0bjhvODJvOGJ4YTh1NWVmdXJoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.webp" width="23%" style="border-radius: 12px;" />
-
 </div>
-</div>
+
+-----------------------------------------------------------------------------------------------------------------------
+
+![](https://camo.githubusercontent.com/af392fa8ba001261ebcc75992146f81ef5612ae3555cde1f35ba7f051215d67a/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a616c69617279616e746563683f7468656d653d72756c653334)  ‎ ‎‎  ‎    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZiNHZ3b2ozaXI2OW9xdjg4eGN3dGtmb2lrYXkxazg2anluejZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/orUBsDjlD2rzsz6pPK/giphy.webp" width="200" height="100" />  ‎ ‎ ‎    ‎ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRxY2VuMnI1M2Z1b2cwcjNucG04OXZxOXF4cmtkdm0zamF1dmd6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7Gq9bHJl3bGn3oRaX/giphy.webp" width="200" height="100" /> ‎ ‎ ‎    ‎  ‎ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx1MzZkMHN2eHFscDlvOWhncWw0bjhvODJvOGJ4YTh1NWVmdXJoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.webp" width="200" height="100" />
+
+
+
+
 
 
